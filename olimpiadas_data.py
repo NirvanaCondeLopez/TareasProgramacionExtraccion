@@ -1,5 +1,4 @@
 import time
-import pandas
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
